@@ -1,0 +1,26 @@
+.list{
+   list-style: none; 
+}
+.item{
+display: flex;
+color: rgb(15, 148, 104);
+}
+
+.item:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.buttonDelete{
+    color: rgb(48, 82, 70);
+}
+
+.buttonDelete:hover, .buttonDelete:focus{
+    background-color: brown;
+    color: aliceblue;
+
+}
+
+.itemContent{
+    margin-right: 20px;
+}
+

@@ -1,0 +1,36 @@
+.form {
+  border: 1px solid black;
+  padding: 10px;
+  width: 500px;
+  background-color: rgb(168, 209, 196);
+}
+
+.labelName {
+  margin-right: 20px;
+}
+.labelNamber {
+  margin-right: 20px;
+}
+
+.buttonAdd {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+   color: rgb(19, 41, 33);
+}
+
+.buttonAdd:hover, .buttonAdd:focus{
+    background-color: rgb(19, 41, 33);
+    color: aliceblue;
+}
+
+.spanName{
+    margin-right: 7px;
+    color: rgb(19, 41, 33);
+}
+
+.spanNamber{
+     margin-right: 7px;
+      color: rgb(19, 41, 33);
+}

@@ -1,0 +1,10 @@
+.findSpam{
+    color: brown;
+}
+
+.findInput {
+    display: block;
+    margin-top: 5px;
+    color: rgb(58, 110, 58);
+    border-color: brown;
+}
